@@ -3,11 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=ImranMatin&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
  
-"Jr. AI Model Tester and Prompt Engineer"
+### Jr. AI Model Tester and Prompt Engineer
 
-Motivated and experienced software engineer with a strong background in software development principles and delivering high-quality, scalable solutions. Proficient in Python, JavaScript, and C++, with a track record of collaborating on cross-functional teams. Eager to leverage my technical expertise and problem-solving skills to the growing field of AI model testing and prompt engineering, ensuring optimal performance and relevance of AI systems.
+- Motivated professional with a strong interest in software development, with hands-on experience in AI model testing and prompt engineering.
+- Proficient in Python, with a foundational understanding of JavaScript and C++.
+- Eager to leverage problem-solving skills and a passion for technology to contribute to a software development team and build high-quality solutions.
 
-Motivated professional with a strong interest in software development, with hands-on experience in AI model testing and prompt engineering. Proficient in Python, with a foundational understanding of JavaScript and C++. Eager to leverage problem-solving skills and a passion for technology to contribute to a software development team and build high-quality solutions.
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -16,7 +17,7 @@ Motivated professional with a strong interest in software development, with hand
 
 - 🌱 I’m currently learning **Full-stack Development**
 - 👨‍💻 Personal portfolio: **Coming Soon**
-- 📫 How to reach me: **https://www.linkedin.com/in/imran-matin17//**
+- 📫 How to reach me: **https://www.linkedin.com/in/imran-matin17/**
 - ⚡ Fun fact **I love to explore different AI tools ❤️**
 
 ---
@@ -48,7 +49,7 @@ Motivated professional with a strong interest in software development, with hand
 <br/>
 
 ### 🗄️ Database 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
