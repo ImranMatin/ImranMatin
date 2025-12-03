@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ImranMatin&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
  
-### Jr. AI Model Tester and Prompt Engineer
+### AI Model Tester and Prompt Engineer
 
 - Motivated professional with a strong interest in software development, with hands-on experience in AI model testing and prompt engineering.
 - Proficient in Python, with a foundational understanding of JavaScript and C++.
@@ -52,6 +52,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 <br/>
 
 ### 📚 Version Control
