@@ -16,7 +16,7 @@
 ### 🚀 More about me
 
 - 🌱 I’m currently learning **Full-stack Development**
-- 👨‍💻 Personal portfolio: **Coming Soon**
+- 👨‍💻 Personal portfolio: **https://imran-matin-portfolio.vercel.app/**
 - 📫 How to reach me: **https://www.linkedin.com/in/imran-matin17/**
 - ⚡ Fun fact **I love to explore different AI tools ❤️**
 
