@@ -94,5 +94,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=ImranMatin&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="imranmatin" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranMatin&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="imranmatin" /></td
   </tr>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ImranMatin&theme=dark)](https://git.io/streak-stats)
 </table>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ImranMatin&theme=dark)](https://git.io/streak-stats)
+
