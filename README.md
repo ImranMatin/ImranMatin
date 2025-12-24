@@ -89,11 +89,29 @@
 
 ### 📊 Github Stats
 
-<table>
+<!-- <table>
   <tr>
     [![GitHub Streak](https://streak-stats.demolab.com/?user=ImranMatin&theme=dark)](https://git.io/streak-stats)
-    <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=ImranMatin&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="imranmatin" /></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ImranMatin&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="imranmatin" /></td> 
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranMatin&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="imranmatin" /></td
   </tr>
-</table>
+</table> -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="streak-stats.demolab.com" alt="GitHub Streak Stats" />
+        </a>
+      </td>
+      <td>
+        <img src="github-readme-stats.vercel.app" alt="Top Languages" width="400px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Contribution Graph
+![Contribution Graph](github-contribution-graph.ez4o.com)
+
 
