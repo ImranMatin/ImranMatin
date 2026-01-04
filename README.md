@@ -128,16 +128,26 @@ Impact Highlight: At NCC Corporation, I optimized AI query resolution by 40% and
 </p>
 
 ---
-### 📊 Github Stats
+### 📊 GitHub Stats
 
-<!-- <table>
+<table align="center">
   <tr>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ImranMatin&theme=dark)](https://git.io/streak-stats)
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ImranMatin&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="imranmatin" /></td> 
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranMatin&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="imranmatin" /></td
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ImranMatin&theme=dark&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ImranMatin&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="ImranMatin Stats" />
+    </td>
   </tr>
-</table> -->
-
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranMatin&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+----
 <div align="center">
   <table>
     <tr>
