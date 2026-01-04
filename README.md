@@ -5,22 +5,30 @@
  
 ### Software Engineer | AI Engineer | Full Stack Developer
 
-A highly motivated **Software Engineer and AI Engineer** with a Master's in Computer Science from **Texas State University**. Currently architecting and optimizing AI solutions at **NCC Corporation Inc.**, specializing in advanced prompt engineering and rigorous AI model testing. 
+Software Engineer & AI Specialist with a Master’s in Computer Science and a track record of building production-ready, AI-driven applications. I specialize in the intersection of Full-Stack Engineering and Applied Machine Learning, focusing on optimizing model performance and architecting scalable data pipelines. 
 
-- **Impact:** 📉 30% reduction in AI model error rates | ⚡ 40% improvement in query resolution time.
 - **Achievement:** 🏆 3rd Place at HackNation's Global AI Hackathon.
 - **Focus:** I thrive on bringing innovative ideas to life and am actively seeking opportunities to make a significant technological impact.
+
+Key Expertise:
+
+Software Engineering: Developing robust applications using Python, TypeScript, and React, with a focus on clean architecture and CI/CD.
+
+AI/ML Optimization: Expertise in Prompt Engineering, rigorous model testing, and error-rate reduction in LLM-based solutions.
+
+Data Infrastructure: Designing high-performance database schemas with PostgreSQL and automated scraping pipelines using Playwright/Selenium.
+
+Impact Highlight: At NCC Corporation, I optimized AI query resolution by 40% and slashed model error rates by 30% through advanced testing and architectural refinements.
 
 ---
 
 <!-- GIF -->
 <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
----
 
 ### 🚀 More about me
 
-- 🌱 I’m currently learning **Full-stack Development**
+- 🌱 I’m currently learning **Full-stack Development, and AI Agents**
 - 👨‍💻 Personal portfolio: **https://imran-matin-portfolio.vercel.app/**
 - 📫 How to reach me: **https://www.linkedin.com/in/imran-matin17/**
 - ⚡ Fun fact **I love to explore different AI tools and keep up with the latest technological trends ❤️**
@@ -78,10 +86,10 @@ A highly motivated **Software Engineer and AI Engineer** with a Master's in Comp
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>
 
 ### 📚 Version Control
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -102,7 +110,7 @@ A highly motivated **Software Engineer and AI Engineer** with a Master's in Comp
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 <br/>
 
-### 🔗 Connect with me
+### 🤝 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-matin17/)
 [![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImranMatin)
