@@ -3,22 +3,27 @@
 
 ![](https://komarev.com/ghpvc/?username=ImranMatin&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
  
-### AI Model Tester and Prompt Engineer
+### Software Engineer | AI Engineer | Full Stack Developer
 
-- Motivated professional with a strong interest in software development, with hands-on experience in AI model testing and prompt engineering.
-- Proficient in Python, with a foundational understanding of JavaScript and C++.
-- Eager to leverage problem-solving skills and a passion for technology to contribute to a software development team and build high-quality solutions.
+A highly motivated **Software Engineer and AI Engineer** with a Master's in Computer Science from **Texas State University**. Currently architecting and optimizing AI solutions at **NCC Corporation Inc.**, specializing in advanced prompt engineering and rigorous AI model testing. 
 
+- **Impact:** 📉 30% reduction in AI model error rates | ⚡ 40% improvement in query resolution time.
+- **Achievement:** 🏆 3rd Place at HackNation's Global AI Hackathon.
+- **Focus:** I thrive on bringing innovative ideas to life and am actively seeking opportunities to make a significant technological impact.
+
+---
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+---
 
 ### 🚀 More about me
 
 - 🌱 I’m currently learning **Full-stack Development**
 - 👨‍💻 Personal portfolio: **https://imran-matin-portfolio.vercel.app/**
 - 📫 How to reach me: **https://www.linkedin.com/in/imran-matin17/**
-- ⚡ Fun fact **I love to explore different AI tools ❤️**
+- ⚡ Fun fact **I love to explore different AI tools and keep up with the latest technological trends ❤️**
 
 ---
 
@@ -33,6 +38,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
 
+#### 🌐 Web Development
 
 ### ⿶⿶ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +56,7 @@
 ![NextJS](https://img.shields.io/badge/extjs-%2386BC40.svg?style=for-the-badge&logo=sencha&logoColor=white)
 <br/>
 
-## 🤖 AI/ML & Data Science
+### 🤖 AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,7 +73,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 <br/>
 
-#### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -101,7 +107,7 @@
 [![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-matin17/)
 [![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImranMatin)
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imran.matin.17@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 #
 
 ### 📊 Github Stats
