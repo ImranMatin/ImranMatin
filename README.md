@@ -118,6 +118,17 @@ Impact Highlight: At NCC Corporation, I optimized AI query resolution by 40% and
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 #
 
+---
+
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</p>
+
+---
 ### 📊 Github Stats
 
 <!-- <table>
